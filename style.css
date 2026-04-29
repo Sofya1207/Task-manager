@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  background-color: #e6f0ff;
+  text-align: center;
+}
+
+h1 {
+  color: #0047ab;
+}
+
+.form {
+  margin: 20px;
+}
+
+input,
+select,
+button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #0047ab;
+}
+
+button {
+  background-color: #0047ab;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003380;
+}
+
+.task {
+  background-color: white;
+  margin: 10px auto;
+  padding: 10px;
+  width: 60%;
+  border-radius: 10px;
+  border-left: 6px solid #0047ab;
+}
